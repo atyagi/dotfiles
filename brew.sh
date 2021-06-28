@@ -103,6 +103,7 @@ brew tap homebrew/cask-fonts
 brew install font-source-code-pro-for-powerline
 
 brew install z
+brew install pinentry-mac
 
 # Remove outdated versions from the cellar.
 brew cleanup
