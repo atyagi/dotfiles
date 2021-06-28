@@ -97,5 +97,12 @@ brew install tree
 brew install vbindiff
 brew install zopfli
 
+# Install source code pro
+brew install svn
+brew tap homebrew/cask-fonts
+brew install font-source-code-pro-for-powerline
+
+brew install z
+
 # Remove outdated versions from the cellar.
 brew cleanup
